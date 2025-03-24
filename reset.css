@@ -1,0 +1,19 @@
+body {
+    background-color: var(--background);
+  }
+  
+  html,
+  body {
+    height: calc(100% - 2px);
+    margin: 0;
+  }
+  
+  .wrapper {
+    background-color: #0a0a10a3;
+    border: 2px solid var(--white);
+  }
+  
+  .box {
+    background-color: #0f0f169e;
+    border: 2px solid var(--white);
+  }
